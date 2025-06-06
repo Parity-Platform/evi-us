@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+EVI-US Wallet
+======
+
+Made for NGI-Sargasso Project
+
+![](img/img1.png)
+![](img/img2.png)
+![](img/img3.png)
 
 ## Getting Started
 
